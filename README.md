@@ -1,4 +1,4 @@
-# ThreeJS-starter-git
+# ThreeJS-starter-Kit
 This is a starter repository for working with ThreeJS.  The app is build using vite. It includes a geometry, material,  mesh and lights as well as dat.gui.
 
 ## Usage
